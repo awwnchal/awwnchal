@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif" width="500" height="500"/>
+  <img src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif" width="200" height="200"/>
 </div>
 
 
