@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 💻 My interests are Data Science, Machine Learning, Data Analysis, Causal Inference, Data Vizualization and Statistical Modelling.
 🤔 I’m looking for full time jobs.
