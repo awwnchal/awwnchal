@@ -32,8 +32,6 @@ Checkout my portfolio - https://awwnchal.github.io
 
 💻 My interests are Data Science, Machine Learning, Data Analysis, Causal Inference, Data Vizualization and Statistical Modelling.
 
-🤔 I’m looking for full time jobs.
-
 🌉 Located in San Francisco.
 
 💬 Ask me about anything.
