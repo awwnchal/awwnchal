@@ -41,6 +41,5 @@ Checkout my portfolio - https://awwnchal.github.io
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=awwnchal&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
-  # Languages/Tools
+# Languages/Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
