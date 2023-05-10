@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif" width="400" height="400"/>
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>
-  hey there
+  Hi! I'm Anchal
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
