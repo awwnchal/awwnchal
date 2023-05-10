@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif" width="600" height="300"/>
+</div>
+
+
 <!--
 **awwnchal/awwnchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
