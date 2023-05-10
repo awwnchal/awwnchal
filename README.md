@@ -43,4 +43,4 @@ Checkout my portfolio - https://awwnchal.github.io
 
 # Languages/Tools
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,mysql, mongodb,github,py,r,selenium,tensorflow,vscode,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,mysql,mongodb,github,py,r,selenium,tensorflow,vscode,sqlite)](https://skillicons.dev)
