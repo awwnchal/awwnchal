@@ -39,7 +39,7 @@ Checkout my portfolio - https://awwnchal.github.io
 💬 Ask me about anything.
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-awwnchal&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=awwnchal&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
