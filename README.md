@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif" width="400" height="400"/>
+  <img src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif" width="350" height="350"/>
 </div>
 
 
@@ -25,8 +25,12 @@ Here are some ideas to get you started:
 </h1>
 
 💻 My interests are Data Science, Machine Learning, Data Analysis, Causal Inference, Data Vizualization and Statistical Modelling.
+
 🤔 I’m looking for full time jobs.
+
 🌉 Located in San Francisco.
+
 💬 Ask me about anything.
+
 
 
