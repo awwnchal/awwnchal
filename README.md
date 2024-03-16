@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 💻 My interests are Data Science, Machine Learning, Data Analysis, Causal Inference, Data Visualization and Statistical Modelling.
 
-🌉 Located in San Francisco.
+ Located in NewYork.
 
 💬 Ask me about anything.
 
